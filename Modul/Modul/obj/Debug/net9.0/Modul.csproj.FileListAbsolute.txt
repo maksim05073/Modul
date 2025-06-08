@@ -1,0 +1,14 @@
+C:\Users\ку\Desktop\proga\Modul\Modul\bin\Debug\net9.0\Modul.exe
+C:\Users\ку\Desktop\proga\Modul\Modul\bin\Debug\net9.0\Modul.deps.json
+C:\Users\ку\Desktop\proga\Modul\Modul\bin\Debug\net9.0\Modul.runtimeconfig.json
+C:\Users\ку\Desktop\proga\Modul\Modul\bin\Debug\net9.0\Modul.dll
+C:\Users\ку\Desktop\proga\Modul\Modul\bin\Debug\net9.0\Modul.pdb
+C:\Users\ку\Desktop\proga\Modul\Modul\obj\Debug\net9.0\Modul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ку\Desktop\proga\Modul\Modul\obj\Debug\net9.0\Modul.AssemblyInfoInputs.cache
+C:\Users\ку\Desktop\proga\Modul\Modul\obj\Debug\net9.0\Modul.AssemblyInfo.cs
+C:\Users\ку\Desktop\proga\Modul\Modul\obj\Debug\net9.0\Modul.csproj.CoreCompileInputs.cache
+C:\Users\ку\Desktop\proga\Modul\Modul\obj\Debug\net9.0\Modul.dll
+C:\Users\ку\Desktop\proga\Modul\Modul\obj\Debug\net9.0\refint\Modul.dll
+C:\Users\ку\Desktop\proga\Modul\Modul\obj\Debug\net9.0\Modul.pdb
+C:\Users\ку\Desktop\proga\Modul\Modul\obj\Debug\net9.0\Modul.genruntimeconfig.cache
+C:\Users\ку\Desktop\proga\Modul\Modul\obj\Debug\net9.0\ref\Modul.dll
